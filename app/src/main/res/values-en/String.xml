@@ -1,4 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="app_name">My Application</string>
+    <string name="unitem">Temperature Units</string>
+    <string name="uniare">Area Units</string>
+    <string name="unidis">Distance Units</string>
+    <string name="tem1">Celsius to Fahrenheit</string>
+    <string name="tem2">Fahrenheit to Celsius</string>
+    <string name="tem3">Celsius to Kelvin</string>
+    <string name="tem4">Kelvin to Celsius</string>
+    <string name="are1">Hectare to Meter*2</string>
+    <string name="are2">Meter*2 to Hectare</string>
+    <string name="are3">Meter*2 to Kilometer*2</string>
+    <string name="are4">Kilometer*2 to Meter*2</string>
+    <string name="dis1">Meter to Centimeter</string>
+    <string name="dis2">Centimeter to Meter</string>
+    <string name="dis3">Centimeter to Inch</string>
+    <string name="dis4">Inch to Centimeter</string>
+    <string name="less">Unit</string>
+    <string name="addf"></string>
+    <string name="Calm">Calculate</string>
+    <string name="defr">Result</string>
 </resources>

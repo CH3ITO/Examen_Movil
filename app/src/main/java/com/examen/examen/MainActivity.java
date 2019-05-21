@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 try
                 {
+                    String titulo= "mi_actividad";
                     Intent intent=new Intent(v.getContext(),Convertidor.class);
                     startActivityForResult(intent,0);
                 }catch (Exception e)
