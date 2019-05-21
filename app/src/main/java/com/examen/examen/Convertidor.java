@@ -28,7 +28,6 @@ public class Convertidor extends AppCompatActivity {
                     ejecutar();
                 }catch (Exception e)
                 {
-
                 }
 
             }
